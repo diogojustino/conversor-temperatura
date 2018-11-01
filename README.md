@@ -1,2 +1,2 @@
-# conversor-temperatura
-Comversor simples de temperatura que converte Celsius, Kelvin e Farenheit
+# Conversor de Temperatura
+conversor simples de temperatura que converte Celsius, Kelvin e Farenheit
